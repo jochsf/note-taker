@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const express = require('express');
 
-// import api and html
+// import api and html routes
 const apiRoutes = require('./routes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes');
 
