@@ -21,7 +21,8 @@ This application allows you to record notes and store them on server. You are ab
 
 ## Installation:
 
-Clone or download the repository to your machine. Initiate with ```npm i```
+Clone the repository to your machine and install necessary packages using npm install.
+Then run the app using npm run start
 
 ## Technologies
 - JavaScript
